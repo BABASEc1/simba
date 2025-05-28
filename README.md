@@ -12,7 +12,7 @@ rm -rf simba
 git clone https://github.com/BABASEc1/simba.git
 cd simba
 git pull 
-python Run.py
+python simba.py
 ```
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
